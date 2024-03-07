@@ -1,2 +1,4 @@
-function getResponseFromAPI()
+return function getResponseFromAPI(resolve, reject) {
+    
+};
 
