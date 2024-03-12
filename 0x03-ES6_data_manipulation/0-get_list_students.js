@@ -9,7 +9,7 @@ const arrayOfObjects = [
   },
   {
     // eslint-disable-next-line quote-props, quotes
-    'id': 3, 'firstName': 'Serena', 'location': 'San Francisco',
+    'id': 5, 'firstName': 'Serena', 'location': 'San Francisco',
   },
 ];
 
